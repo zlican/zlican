@@ -1,16 +1,23 @@
-## Hi there 👋
+## zlican, I can！
+👋Hello,this is github belonging to Ling
+✨Certainly, is me✨  
+>⚡First, I’m an active boy  
+>⚡Last, I feel much interested in coding  
 
-<!--
-**zlican/zlican** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Code Language
 
-Here are some ideas to get you started:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zlican77&layout=compact&langs_count=6)
+ <img align="right" alt="GIF" src="./image/code.gif" width="430" height="100%" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### **技术栈:**
+
+<a href="https://go.dev/"><code><img height="20" src="./image/golang.png"></code></a>
+<a href="https://www.tslang.cn/index.html"><code><img height="20" src="./image/typescript.png"></code></a>
+<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./image/vue.png"></code></a>
+<a href="https://reactjs.org/"><code><img height="20" src="./image/react.svg"></code></a>
+<a href="https://webpack.js.org/"><code><img height="20" src="./image/webpack.svg"></code></a>
+<a href="https://www.docker.com"><code><img height="20" src="./image/docker.png"></code></a>
+
+### **Believe**：
+*🌱Let's create an excepted future together!*  
