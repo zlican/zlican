@@ -69,9 +69,6 @@
     <img src="https://img.shields.io/badge/邮箱-0078D4?logo=gmail&logoColor=white" style="margin: 0 8px"/>
   </a>
   <a href="https://juejin.cn/user/your_id">
-    <img src="https://img.shields.io/badge/掘金-1E80FF?logo=dev.to&logoColor=white" style="margin: 0 8px"/>
+    <img src="https://img.shields.io/badge/推特-1E80FF?logo=dev.to&logoColor=white" style="margin: 0 8px"/>
   </a>
 </div>
-
-<!-- 底部装饰线 -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" width="100%">
