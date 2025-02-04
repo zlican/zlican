@@ -6,7 +6,8 @@
 
 ### 🛠️ 技术栈
 
-<div align="center" style="display: flex; gap: 20px; justify-content: center">
+<div align="center" style="display: flex; gap: 40px; justify-content: center; align-items: flex-start; margin: 20px 0;">
+ <div style="display: flex; flex-direction: column; gap: 20px;">
 
 <!-- 前端卡片 -->
 <div style="width: 280px; padding: 20px; background: #161b22; border-radius: 10px;">
@@ -28,7 +29,10 @@
     <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
   </div>
 </div>
-
+</div>
+ <img alt="GIF" src="./image/code.gif"  style="border-radius: 100px; width: 250px; hight: 100%  object-fit: cover; align: right;" />
+  <img alt="GIF" src="./image/code.gif"  style="border-radius: 100px; width: 250px; hight: 100%  object-fit: cover; align: right;" />
+   <img alt="GIF" src="./image/code.gif"  style="border-radius: 100px; width: 250px; hight: 100%  object-fit: cover; align: right;" />
 </div>
 
 ---
