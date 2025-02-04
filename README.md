@@ -37,9 +37,9 @@
 
 <div align="center" style="display: flex; gap: 20px; justify-content: center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zlican&show_icons=true&theme=dark&count_private=true" style="width: 60%" />
+<img src="https://github-readme-stats.vercel.app/api?username=zlican&show_icons=true&theme=dark&count_private=true" style="width: 54%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlican&layout=compact&theme=dark&langs_count=6" style="width: 35%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlican&layout=compact&theme=dark&langs_count=6" style="width: 41%" />
 
 </div>
 
