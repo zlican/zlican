@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Zack要加油;Vue+Developer;Golang+Backend;Tech+Enthusiast" alt="Typing SVG" />
-</div>
 
----
 
 ### 🛠️ 技术栈
 
